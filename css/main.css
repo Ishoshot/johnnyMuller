@@ -1,0 +1,48 @@
+.text-white {
+  color: red;
+}
+
+#john {
+  color: blue;
+  font-size: 30px;
+}
+
+.tobi {
+  background-color: yellow;
+}
+
+.ade {
+  width: 300px;
+}
+
+.container {
+  background-color: #fff;
+}
+
+.logo-img {
+  width: 100px;
+  height: 100px;
+}
+
+.bg-grey {
+  background-color: grey;
+}
+
+.d-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.mr-5 {
+  margin-right: 15%;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.w-20 {
+  width: 20%;
+}
